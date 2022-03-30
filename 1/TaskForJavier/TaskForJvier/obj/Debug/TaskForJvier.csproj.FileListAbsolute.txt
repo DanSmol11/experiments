@@ -1,0 +1,14 @@
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.exe.config
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.exe
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.pdb
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.csproj.AssemblyReference.cache
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.csproj.CoreCompileInputs.cache
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.exe
+C:\Users\Даник\source\repos\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.pdb
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.exe.config
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.exe
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\bin\Debug\TaskForJvier.pdb
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.csproj.AssemblyReference.cache
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.csproj.CoreCompileInputs.cache
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.exe
+C:\Users\Даник\Desktop\TaskForJvier\TaskForJvier\obj\Debug\TaskForJvier.pdb
